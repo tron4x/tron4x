@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tron4x" alt="tron4x" /></a> </p>
 
-- 🔭 I’m currently working on **Next.js Video 7 Image Gallery including Redis, S3 Bucket on Kubernetes**
+- 🔭 I’m currently working on **Next.js Video / Image Gallery including Redis, S3 Bucket on Kubernetes**
 
 - 🌱 I’m currently learning **Next.js**
 
