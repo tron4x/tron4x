@@ -7,7 +7,7 @@ i'm a DevOps Egineer from Munich, Germany
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,js,nextjs,vite,vuejs,nodejs,prisma,mongodb,postgres,redis,git,jenkins,grafana,prometheus,terraform)
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,nextjs,vite,vuejs,nodejs,prisma,mongodb,postgres,redis,git,jenkins,grafana,prometheus,terraform)
 
 -----------------------------------
 
