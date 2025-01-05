@@ -15,6 +15,6 @@ DevOps Egineer from munich, germany
 -----------------------------------
 
 My new small and simple but nice next.js app for video/image view.<br>
-Work in progress....coming soon.....
+Work in progress....coming soon..... 😊
 
 ![Gallery v1](gallery.gif)
