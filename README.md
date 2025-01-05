@@ -12,3 +12,9 @@ DevOps Egineer from munich, germany
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,js,nextjs,vite,vuejs,nodejs,prisma,mongodb,postgres,redis,git,jenkins,grafana,prometheus,terraform)](https://skillicons.dev)
 
+-----------------------------------
+
+My new small and simple but nice next.js app for video/image view.<br>
+Work in progress....coming soon.....
+
+![Gallery v1](gallery.gif)
