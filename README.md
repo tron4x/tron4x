@@ -14,6 +14,8 @@ i'm a DevOps Egineer from Munich, Germany
 My new small and simple but nice next.js app for video/image view.<br>
 Now available for free use. Have fun 😊
 
-[NextJS-Gallery](https://github.com/tron4x/nextjs-gallery)
+Git Repo: [NextJS-Gallery](https://github.com/tron4x/nextjs-gallery)
+
+Live Demo: [Next.js-Gallery](https://gallery.devops.bayern/)
 
 ![Gallery v1](gallery.gif)
