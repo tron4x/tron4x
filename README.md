@@ -2,7 +2,7 @@ Hi, my name is Konstantinos,
 
 i'm a DevOps Egineer from Munich, Germany
 
-* 🧠  I'm currently learning Next.js
+* 🧠  I'm currently working with Next.js, deploying apps on Kubernetes with everything that goes with it....
 * 🤝  I'm open to collaborating on Kubernetes and Next.js projects.
 
 ### Skills
