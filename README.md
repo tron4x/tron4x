@@ -14,6 +14,13 @@ i'm a DevOps Egineer from Munich, Germany
 My new small and simple but nice next.js app for video/image view.<br>
 Now available for free use. Have fun 😊
 
+#### Features:
+
+👉 MP4 Videos<br>
+👉 JPG, JPEG Images<br>
+👉 MP3 Audio<br>
+👉 React and Motion Effects<br>
+
 Git Repo: [NextJS-Gallery](https://github.com/tron4x/nextjs-gallery)
 
 Live Demo: [Next.js-Gallery](https://gallery.devops.bayern/)
