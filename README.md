@@ -26,3 +26,11 @@ Git Repo: [NextJS-Gallery](https://github.com/tron4x/nextjs-gallery)
 Live Demo: [Next.js-Gallery](https://gallery.devops.bayern/)
 
 ![Gallery v1](gallery.gif)
+
+-----------------------------------
+Video Player
+
+Git Repo: https://github.com/tron4x/video-app.git
+
+![Gallery v1](gallery.gif)
+
