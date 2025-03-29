@@ -32,5 +32,5 @@ Video Player
 
 Git Repo: https://github.com/tron4x/video-app.git
 
-![Gallery v1](gallery.gif)
+![Video Player](screenshot.png)
 
