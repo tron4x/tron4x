@@ -30,7 +30,7 @@ Live Demo: [Next.js-Gallery](https://gallery.devops.bayern/)
 -----------------------------------
 Video Player
 
-Git Repo: https://github.com/tron4x/video-app.git
+Git Repo:  [Video-Player](https://github.com/tron4x/video-app.git)
 
 ![Video Player](screenshot.png)
 
