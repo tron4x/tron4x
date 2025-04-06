@@ -30,6 +30,8 @@ Live Demo: [Next.js-Gallery](https://gallery.devops.bayern/)
 -----------------------------------
 Video App
 
+Git Repo: [NextJS-Videp-App](https://github.com/tron4x/video-app.git)
+
 Live Demo: [Next.js-Video-App](https://video.devops.bayern/)
 
 ![Video Player](screenshot.png)
