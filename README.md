@@ -9,17 +9,19 @@ i'm a DevOps Egineer from Munich, Germany
 
 ![My Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,nextjs,vite,vuejs,nodejs,prisma,mongodb,postgres,redis,git,jenkins,grafana,prometheus,terraform)
 
+## My current projects in next.js
+
+Video Platform
+
+Git Repo: [NextJS-Videp-App](https://github.com/tron4x/video-app.git)
+
+Live Demo: [Next.js-Video-App](https://video.devops.bayern/)
+
+![Video Player](vodeo-app.png)
+
 -----------------------------------
 
-My new small and simple but nice next.js app for video/image view.<br>
-Now available for free use. Have fun 😊
-
-#### Features:
-
-👉 MP4 Videos<br>
-👉 JPG, JPEG Images<br>
-👉 MP3 Audio<br>
-👉 React and Motion Effects<br>
+Media Gallery
 
 Git Repo: [NextJS-Gallery](https://github.com/tron4x/nextjs-gallery)
 
@@ -27,12 +29,4 @@ Live Demo: [Next.js-Gallery](https://gallery.devops.bayern/)
 
 ![Gallery v1](gallery.gif)
 
------------------------------------
-Video App
-
-Git Repo: [NextJS-Videp-App](https://github.com/tron4x/video-app.git)
-
-Live Demo: [Next.js-Video-App](https://video.devops.bayern/)
-
-![Video Player](vodeo-app.png)
 
