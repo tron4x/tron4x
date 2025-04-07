@@ -17,7 +17,7 @@ Git Repo: [NextJS-Videp-App](https://github.com/tron4x/video-app.git)
 
 Live Demo: [Next.js-Video-App](https://video.devops.bayern/)
 
-![Video Player](vodeo-app.png)
+![Video Platform](video-app.gif)
 
 -----------------------------------
 
