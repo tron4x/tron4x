@@ -11,14 +11,6 @@ i'm a DevOps Egineer from Munich, Germany
 
 ## My current projects in next.js
 
-Video Platform
-
-Git Repo: [NextJS-Videp-App](https://github.com/tron4x/video-app.git)
-
-Live Demo: [Next.js-Video-App](https://video.devops.bayern/)
-
-![Video Platform](video-app.gif)
-
 -----------------------------------
 
 Media Gallery
