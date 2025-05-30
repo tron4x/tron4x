@@ -15,6 +15,8 @@ i'm a DevOps Egineer from Munich, Germany
 
 Video App
 
+Git Repo: [NextJS-VideoApp](https://github.com/tron4x/video-app.git)
+
 ![VA v2.9.4](screenshot.png)
 ![VA v2.9.4](player.png)
 ![VA v2.9.4](library.png)
