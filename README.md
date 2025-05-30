@@ -23,6 +23,7 @@ Git Repo: Release coming soon...
 ![VA v2.9.4](category.png)
 ![VA v2.9.4](upladvideo.png)
 ![VA v2.9.4](uploadimage.png)
+![VA v2.9.4](account.png)
 
 -----------------------------------
 
