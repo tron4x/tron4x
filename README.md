@@ -15,7 +15,7 @@ i'm a DevOps Egineer from Munich, Germany
 
 Video App
 
-Git Repo: [Video-App](https://github.com/tron4x/video-app.git)
+Git Repo: Comming soon.....
 
 ![VA v2.9.4](screenshot.png)
 ![VA v2.9.4](player.png)
