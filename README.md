@@ -15,7 +15,7 @@ i'm a DevOps Egineer from Munich, Germany
 
 Media Converter
 
-Git Repo: [Media Converter](https://github.com/tron4x/media-converter)
+Git Repo: Comming soon
 
 ![VA v1.3](main.png)
 ![VA v1.3](quality-select.png)
