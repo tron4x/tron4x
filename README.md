@@ -13,6 +13,12 @@ i'm a DevOps Egineer from Munich, Germany
 
 -----------------------------------
 
+Classic snake game: https://snake.devops.bayern/
+
+![VA v1.3](snake-screen.png)
+
+-----------------------------------
+
 Media Converter
 
 Live: https://media-converter.devops.bayern/
