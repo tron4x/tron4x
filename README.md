@@ -11,9 +11,9 @@ i'm a DevOps Egineer from Munich, Germany
 
 ## My current projects in next.js
 
------------------------------------
 
-RAG ChatBot ( Comming soon )
+RAG ChatBot ( Comming soon )<br>
+RAG system that transforms your documents into an intelligent knowledge base with AI-powered search and answers.
 
 ![VA v1.3](1.png)
 
