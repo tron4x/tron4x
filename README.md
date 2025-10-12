@@ -11,8 +11,8 @@ i'm a DevOps Egineer from Munich, Germany
 
 ## My current projects in next.js
 
-
 RAG ChatBot ( Comming soon )<br>
+<img src="chatbbot.png" alt="RAG ChatBot Logo" width="200" style="border-radius: 20px; margin-bottom: 20px;"><br>
 RAG system that transforms your documents into an intelligent knowledge base with AI-powered search and answers.<br>
 Tech Stack: OpenAI GPT-5, OpenSearch Vector Search, Retrieval-Augmented Generation (RAG), LangChain, Next.js
 
