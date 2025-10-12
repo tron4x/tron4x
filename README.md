@@ -13,6 +13,12 @@ i'm a DevOps Egineer from Munich, Germany
 
 -----------------------------------
 
+RAG ChatBot ( Comming soon )
+
+![VA v1.3](1.png)
+
+-----------------------------------
+
 Classic snake game: https://snake.devops.bayern/
 
 ![VA v1.3](snake-screen.png)
