@@ -13,7 +13,8 @@ i'm a DevOps Egineer from Munich, Germany
 
 
 RAG ChatBot ( Comming soon )<br>
-RAG system that transforms your documents into an intelligent knowledge base with AI-powered search and answers.
+RAG system that transforms your documents into an intelligent knowledge base with AI-powered search and answers.<br>
+Tech Stack: OpenAI GPT-5, OpenSearch Vector Search, Retrieval-Augmented Generation (RAG), LangChain
 
 ![VA v1.3](1.png)
 
