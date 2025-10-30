@@ -12,7 +12,7 @@ i'm a DevOps Egineer from Munich, Germany
 ## My current projects in next.js
 
 MCP-powered cluster management with AI analysis    ( work in progress, pre-release )<br>
-<img src="bot.png" alt="MCP AI" width="200" style="border-radius: 20px; margin-bottom: 20px;"><br>
+![VA v1.3](mcp-ai2.png)
 Intelligent Kubernetes Dashboard with Model Context Protocol (MCP) Frontend / Backend and OpenAI-powered Cluster Analysis<br><br>
 ![VA v1.3](mcp-ai.png)
 
