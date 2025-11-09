@@ -15,6 +15,8 @@ MCP-powered cluster management with AI analysis    ( work in progress, pre-relea
 ![VA v1.3](mcp-ai2.png)
 Intelligent Kubernetes Dashboard with Model Context Protocol (MCP) Frontend / Backend and OpenAI-powered Cluster Analysis<br><br>
 ![VA v1.3](mcp-ai-new.png)
+<img src="ai-costs.png" alt="RAG ChatBot Logo" width="1100" style="border-radius: 20px; margin-bottom: 20px;"><br>
+<img src="ai-insights.png" alt="RAG ChatBot Logo" width="1100" style="border-radius: 20px; margin-bottom: 20px;"><br>
 
 -----------------------------------
 
