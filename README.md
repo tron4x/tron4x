@@ -14,7 +14,7 @@ i'm a DevOps Egineer from Munich, Germany
 MCP-powered cluster management with AI analysis    ( work in progress, pre-release )<br>
 ![VA v1.3](mcp-ai2.png)
 Intelligent Kubernetes Dashboard with Model Context Protocol (MCP) Frontend / Backend and OpenAI-powered Cluster Analysis<br><br>
-![VA v1.3](mcp-ai.png)
+![VA v1.3](mcp-ai-new.png)
 
 -----------------------------------
 
