@@ -11,6 +11,13 @@ i'm a DevOps Egineer from Munich, Germany
 
 ## My current projects in next.js
 
+Noema AI ( Comming soon )<br>
+Noema AI is a self-hosted alternative to Google NotebookLM that enables users to upload documents <br>and interact with them through natural language.<br>
+The application uses advanced RAG (Retrieval-Augmented Generation) with professional prompt engineering to provide<br> accurate, source-grounded responses across multiple languages.<br>
+![VA v1.3](noema1.png)
+![VA v1.3](noema2.png)
+
+-----------------------------------
 MCP-powered cluster management with AI analysis    ( work in progress, pre-release )<br>
 ![VA v1.3](mcp-ai2.png)
 Intelligent Kubernetes Dashboard with Model Context Protocol (MCP) Frontend / Backend and OpenAI-powered Cluster Analysis<br><br>
