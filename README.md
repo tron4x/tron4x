@@ -1,44 +1,72 @@
-Hi, my name is Konstantinos,
+<div align="center">
+  
+# 👋 Hi, I'm Konstantinos
 
-i'm a DevOps Egineer from Munich, Germany
+### DevOps Engineer from Munich, Germany 🇩🇪
 
-* 🧠  I'm currently working with Next.js, deploying apps on Kubernetes with everything that goes with it....
-* 🤝  I'm open to collaborating on Kubernetes and Next.js projects.
+</div>
 
-## My current projects in next.js
+---
 
-Noema AI ( Comming soon )<br>
-Noema AI is a self-hosted alternative to Google NotebookLM that enables users to upload documents <br>and interact with them through natural language.<br>
-The application uses advanced RAG (Retrieval-Augmented Generation) with professional prompt engineering to provide<br> accurate, source-grounded responses across multiple languages.<br>
-AI-powered research assistant built with Next.js, OpenAI, Qdrant, and Redis.<br>
-![VA v1.3](noema1.png)
-![VA v1.3](noema2.png)
+### 🚀 About Me
 
------------------------------------
-MCP-powered cluster management with AI analysis    ( work in progress, pre-release )<br>
-![VA v1.3](mcp-ai2.png)
-Intelligent Kubernetes Dashboard with Model Context Protocol (MCP) Frontend / Backend and OpenAI-powered Cluster Analysis<br><br>
-![VA v1.3](mcp-ai-new.png)
-<img src="ai-costs.png" alt="RAG ChatBot Logo" width="1100" style="border-radius: 20px; margin-bottom: 20px;"><br>
-<img src="ai-insights.png" alt="RAG ChatBot Logo" width="1100" style="border-radius: 20px; margin-bottom: 20px;"><br>
+- 🔧 Currently working with **Next.js** & deploying apps on **Kubernetes**
+- 🤝 Open to collaborate on **Kubernetes** and **Next.js** projects
+- 🌱 Passionate about **AI/ML**, **DevOps**, and **Cloud Native** technologies
 
------------------------------------
+---
 
-RAG ChatBot ( Comming soon )<br>
-<img src="chatbbot.png" alt="RAG ChatBot Logo" width="200" style="border-radius: 20px; margin-bottom: 20px;"><br>
-RAG system that transforms your documents into an intelligent knowledge base with AI-powered search and answers.<br>
-Tech Stack: OpenAI GPT-5, OpenSearch Vector Search, Retrieval-Augmented Generation (RAG), LangChain, Next.js
+## 📂 Featured Projects
 
-![VA v1.3](1.png)
+### 🧠 Noema AI `Coming Soon`
+> Self-hosted alternative to Google NotebookLM
 
------------------------------------
+AI-powered research assistant with RAG (Retrieval-Augmented Generation) for document interaction.
 
-Classic snake game: https://snake.devops.bayern/
+**Tech:** Next.js • OpenAI • Qdrant • Redis
 
-![VA v1.3](snake-screen.png)
+<details>
+<summary>📸 Screenshots</summary>
+<img src="noema1.png" width="600" />
+<img src="noema2.png" width="600" />
+</details>
 
------------------------------------
+---
 
+### ☸️ MCP Kubernetes Dashboard `Work in Progress`
+> Intelligent Kubernetes management with AI analysis
 
+MCP-powered cluster management with OpenAI-powered insights.
+
+**Tech:** Next.js • MCP • OpenAI • Kubernetes
+
+<details>
+<summary>📸 Screenshots</summary>
+<img src="mcp-ai-new.png" width="600" />
+<img src="ai-costs.png" width="600" />
+<img src="ai-insights.png" width="600" />
+</details>
+
+---
+
+### 💬 RAG ChatBot `Coming Soon`
+> Transform documents into an intelligent knowledge base
+
+**Tech:** OpenAI GPT-5 • OpenSearch • LangChain • Next.js
+
+<details>
+<summary>📸 Screenshots</summary>
+<img src="1.png" width="600" />
+</details>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tron4x&layout=compact&theme=dark)
+
+</div>
 
 
