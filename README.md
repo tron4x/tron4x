@@ -18,6 +18,21 @@
 
 ## 📂 Featured Projects
 
+### 🤖 NeuronHub
+> Multi-Model LLM Management Platform
+
+Open-source platform for managing local and cloud LLMs centrally. 
+Features Model Discovery (Ollama, LM Studio), Chat Interface, Model Comparison, Training/Fine-Tuning, Prompt Templates, and MCP Server integration.
+
+**Tech:** Next.js • Ollama • PostgreSQL • Redis • BullMQ • Prisma • MCP
+
+<details>
+<summary>📸 Screenshots</summary>
+<img src="neuronhub1.png" width="600" />
+<img src="neuronhub2.png" width="600" />
+</details>
+
+---
 ### 🧠 Noema AI `Coming Soon`
 > Self-hosted alternative to Google NotebookLM
 
