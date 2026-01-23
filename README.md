@@ -33,7 +33,7 @@ Features Model Discovery (Ollama, LM Studio), Chat Interface, Model Comparison, 
 </details>
 
 ---
-### 🧠 Noema AI `Coming Soon`
+### 🧠 Noema AI
 > Self-hosted alternative to Google NotebookLM
 
 AI-powered research assistant with RAG (Retrieval-Augmented Generation) for document interaction.
@@ -64,7 +64,7 @@ MCP-powered cluster management with OpenAI-powered insights.
 
 ---
 
-### 💬 RAG ChatBot `Coming Soon`
+### 💬 RAG ChatBot
 > Transform documents into an intelligent knowledge base
 
 **Tech:** OpenAI GPT-5 • OpenSearch • LangChain • Next.js
