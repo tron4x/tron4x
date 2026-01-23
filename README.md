@@ -28,8 +28,8 @@ Features Model Discovery (Ollama, LM Studio), Chat Interface, Model Comparison, 
 
 <details>
 <summary>📸 Screenshots</summary>
-<img src="neuronhub1.png" width="600" />
 <img src="neuronhub2.png" width="600" />
+<img src="neuronhub1.png" width="600" />
 </details>
 
 ---
