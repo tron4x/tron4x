@@ -30,6 +30,11 @@ Features Model Discovery (Ollama, LM Studio), Chat Interface, Model Comparison, 
 <summary>📸 Screenshots</summary>
 <img src="neuronhub2.png" width="600" />
 <img src="neuronhub1.png" width="600" />
+<img src="modelcomparison.png" width="600" />
+<img src="modelstudio1.png" width="600" />
+<img src="modelstudio2.png" width="600" />
+<img src="trainingmodel.png" width="600" />
+<img src="chat.png" width="600" />
 </details>
 
 ---
