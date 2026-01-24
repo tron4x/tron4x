@@ -71,18 +71,6 @@ MCP-powered cluster management with OpenAI-powered insights.
 
 ---
 
-### 💬 RAG ChatBot
-> Transform documents into an intelligent knowledge base
-
-**Tech:** OpenAI GPT-5 • OpenSearch • LangChain • Next.js
-
-<details>
-<summary>📸 Screenshots</summary>
-<img src="1.png" width="600" />
-</details>
-
----
-
 <div align="center">
 
 ### 📊 GitHub Stats
