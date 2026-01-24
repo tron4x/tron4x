@@ -26,6 +26,8 @@ Features Model Discovery (Ollama, LM Studio), Chat Interface, Model Comparison, 
 
 **Tech:** Next.js • Ollama • PostgreSQL • Redis • BullMQ • Prisma • MCP
 
+**📦 Repo:** [github.com/tron4x/mpc-llm-hub](https://github.com/tron4x/mpc-llm-hub) — Multi-Model LLM Platform
+
 <details>
 <summary>📸 Screenshots</summary>
 <img src="neuronhub2.png" width="600" />
