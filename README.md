@@ -18,7 +18,7 @@
 
 ## 📂 Featured Projects
 
-### 🤖 TronVid
+### 🎬 TronVid
 > A modern, cross-platform video player
 
 **Tech:** Next.js • Electron • Node.js
