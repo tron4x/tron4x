@@ -18,6 +18,20 @@
 
 ## 📂 Featured Projects
 
+### 🤖 TronVid
+> A modern, cross-platform video player
+
+**Tech:** Next.js • Electron • Node.js
+
+**📦 Repo:** [github.com/tron4x/tronvid](https://github.com/tron4x/tronvid) — TronVid
+
+<details>
+<summary>📸 Screenshots</summary>
+<img src="screen.png" width="600" />
+</details>
+
+---
+
 ### 🤖 NeuronHub
 > Multi-Model LLM Management Platform
 
