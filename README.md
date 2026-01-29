@@ -27,8 +27,21 @@
 
 <details>
 <summary>📸 Screenshots</summary>
-<img src="screen.png" width="600" />
+
+<p align="left">
+  <img src="screen.png" width="600" />
+  <br>
+  <em>Main Window</em>
+</p>
+
+<p align="left">
+  <img src="screen1.png" width="600" />
+  <br>
+  <em>Mini Player</em>
+</p>
+
 </details>
+
 
 ---
 
