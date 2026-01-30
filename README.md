@@ -96,12 +96,4 @@ MCP-powered cluster management with OpenAI-powered insights.
 
 ---
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tron4x&layout=compact&theme=dark)
-
-</div>
-
 
