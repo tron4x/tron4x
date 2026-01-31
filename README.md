@@ -29,15 +29,33 @@
 <summary>📸 Screenshots</summary>
 
 <p align="left">
-  <img src="screen.png" width="600" />
+  <img src="main.png" width="600" />
   <br>
   <em>Main Window</em>
 </p>
 
 <p align="left">
-  <img src="screen1.png" width="600" />
+  <img src="mini.png" width="600" />
   <br>
   <em>Mini Player</em>
+</p>
+
+<p align="left">
+  <img src="audio.png" width="600" />
+  <br>
+  <em>Audio Extraction</em>
+</p>
+
+<p align="left">
+  <img src="video-stat-loop.png" width="600" />
+  <br>
+  <em>Video Statistics - Chapter Loop</em>
+</p>
+
+<p align="left">
+  <img src="about.png" width="600" />
+  <br>
+  <em>Developer 😊</em>
 </p>
 
 </details>
