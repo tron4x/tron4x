@@ -53,6 +53,18 @@
 </p>
 
 <p align="left">
+  <img src="editor.png" width="600" />
+  <br>
+  <em>Video Editor</em>
+</p>
+
+<p align="left">
+  <img src="export.png" width="600" />
+  <br>
+  <em>Video Editor - Export</em>
+</p>
+
+<p align="left">
   <img src="about.png" width="600" />
   <br>
   <em>Developer 😊</em>
