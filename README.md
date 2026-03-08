@@ -18,6 +18,14 @@
 
 ## 📂 Featured Projects
 
+### 🌐 TronLinkHub
+> A modern, containerized web application for managing and organizing your links and services.
+
+**📦 Repo:** [github.com/tron4x/tronvid](https://github.com/tron4x/tronlinkhub) — TronLinkhub
+
+<img src="public/tronlinkhub.gif" alt="TRON LinkHub" width="700" />
+
+---
 ### 🎬 TronVid
 > A modern, cross-platform video player
 
