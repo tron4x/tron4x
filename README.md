@@ -23,7 +23,7 @@
 
 **📦 Repo:** [github.com/tron4x/tronvid](https://github.com/tron4x/tronlinkhub) — TronLinkhub
 
-<img src="public/tronlinkhub.gif" alt="TRON LinkHub" width="700" />
+<img src="tronlinkhub.gif" alt="TRON LinkHub" width="700" />
 
 ---
 ### 🎬 TronVid
