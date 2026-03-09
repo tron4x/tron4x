@@ -21,7 +21,7 @@
 ### 🌐 TronLinkHub
 > A modern, containerized web application for managing and organizing your links and services.
 
-**📦 Repo:** [github.com/tron4x/tronvid](https://github.com/tron4x/tronlinkhub) — TronLinkhub
+**📦 Repo:** [github.com/tron4x/tronlinkhub](https://github.com/tron4x/tronlinkhub) — TronLinkhub
 
 <img src="tronlinkhub.gif" alt="TRON LinkHub" width="1024" />
 
