@@ -18,6 +18,12 @@
 
 ## 📂 Featured Projects
 
+### Lumoravision
+> Modern Media Player
+
+**📦 Repo:** [github.com/tron4x/tronlinkhub](https://github.com/tron4x/lumoravision) — Lumoravision
+
+
 ### 🌐 TronLinkHub
 > A modern, containerized web application for managing and organizing your links and services.
 
