@@ -23,6 +23,7 @@
 
 **📦 Repo:** [github.com/tron4x/tronlinkhub](https://github.com/tron4x/lumoravision) — Lumoravision
 
+<img src="app.png" alt="Lumoravision" width="1024" />
 
 ### 🌐 TronLinkHub
 > A modern, containerized web application for managing and organizing your links and services.
