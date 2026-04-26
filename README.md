@@ -19,7 +19,9 @@
 ## 📂 Featured Projects
 
 ### Lumoravision
-> Modern Media Player
+> Modern Media Player<br>
+>Your local media library — reimagined. No cloud. No upload. No bullshit.<br>
+Drop a folder. Watch. Edit. Export GIFs. All in the browser.
 
 **📦 Repo:** [github.com/tron4x/tronlinkhub](https://github.com/tron4x/lumoravision) — Lumoravision
 
