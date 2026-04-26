@@ -24,6 +24,34 @@
 **📦 Repo:** [github.com/tron4x/tronlinkhub](https://github.com/tron4x/lumoravision) — Lumoravision
 
 <img src="app.png" alt="Lumoravision" width="1024" />
+<details>
+<summary>📸 Screenshots</summary>
+
+<p align="left">
+  <img src="editor.png" width="600" />
+  <br>
+  <em>Editor</em>
+</p>
+
+<p align="left">
+  <img src="splitscreen.png" width="600" />
+  <br>
+  <em>Splitscreen</em>
+</p>
+
+<p align="left">
+  <img src="player.png" width="600" />
+  <br>
+  <em>Player</em>
+</p>
+
+<p align="left">
+  <img src="storyboard.png" width="600" />
+  <br>
+  <em>Storyboard</em>
+</p>
+
+</details>
 
 ### 🌐 TronLinkHub
 > A modern, containerized web application for managing and organizing your links and services.
